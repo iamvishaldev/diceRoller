@@ -73,7 +73,7 @@ const App = () => {
           <Image style={styles.image} source={uri} />
           <Image style={styles.image} source={uri2} />
         </TouchableOpacity>
-        {/* <Text style={styles.gamePlayButton}>Dice Roller</Text> */}
+        <Text style={styles.gamePlayButton}>Dice Roller</Text>
       </View>
     </>
   );
